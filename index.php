@@ -11,6 +11,8 @@
 
 <body>
     <?php
+
+
     include_once 'database.php';
     include_once 'retrieve.php';
     echo "<br>";
